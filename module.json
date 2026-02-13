@@ -1,0 +1,11 @@
+{
+    "name": "smooth-block",
+    "author": "Leibeun",
+    "description": "Fixes monster attack after a perfect defence without pr or ngsp",
+    "options": {
+        "cliName": "Smooth Block",
+        "guiName": "<font color='#FF0000'>Smooth Block</font>&nbsp;"
+    },
+    "servers": ["https://raw.githubusercontent.com/Leibeun/smooth-block/master/"],
+    "disableAutoUpdate": false
+}
